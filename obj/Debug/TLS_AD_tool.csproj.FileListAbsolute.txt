@@ -1,0 +1,14 @@
+c:\users\sean.li\documents\visual studio 2013\Projects\TLS_AD_tool\TLS_AD_tool\bin\Debug\TLS_AD_tool.exe.config
+c:\users\sean.li\documents\visual studio 2013\Projects\TLS_AD_tool\TLS_AD_tool\bin\Debug\TLS_AD_tool.exe
+c:\users\sean.li\documents\visual studio 2013\Projects\TLS_AD_tool\TLS_AD_tool\bin\Debug\TLS_AD_tool.pdb
+c:\users\sean.li\documents\visual studio 2013\Projects\TLS_AD_tool\TLS_AD_tool\obj\Debug\TLS_AD_tool.Form1.resources
+c:\users\sean.li\documents\visual studio 2013\Projects\TLS_AD_tool\TLS_AD_tool\obj\Debug\TLS_AD_tool.Properties.Resources.resources
+c:\users\sean.li\documents\visual studio 2013\Projects\TLS_AD_tool\TLS_AD_tool\obj\Debug\TLS_AD_tool.csproj.GenerateResource.Cache
+c:\users\sean.li\documents\visual studio 2013\Projects\TLS_AD_tool\TLS_AD_tool\obj\Debug\TLS_AD_tool.exe
+c:\users\sean.li\documents\visual studio 2013\Projects\TLS_AD_tool\TLS_AD_tool\obj\Debug\TLS_AD_tool.pdb
+c:\users\sean.li\documents\visual studio 2013\Projects\TLS_AD_tool\TLS_AD_tool\obj\Debug\TLS_AD_tool.Form2.resources
+C:\Users\sean.li\documents\visual studio 2013\Projects\TLS_AD_tool\TLS_AD_tool\bin\Debug\TLS_AD_tool.exe.manifest
+C:\Users\sean.li\documents\visual studio 2013\Projects\TLS_AD_tool\TLS_AD_tool\bin\Debug\TLS_AD_tool.application
+C:\Users\sean.li\documents\visual studio 2013\Projects\TLS_AD_tool\TLS_AD_tool\obj\Debug\TLS_AD_tool.exe.manifest
+C:\Users\sean.li\documents\visual studio 2013\Projects\TLS_AD_tool\TLS_AD_tool\obj\Debug\TLS_AD_tool.application
+C:\Users\sean.li\documents\visual studio 2013\Projects\TLS_AD_tool\TLS_AD_tool\obj\Debug\TLS_AD_tool.csprojResolveAssemblyReference.cache
